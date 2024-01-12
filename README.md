@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @korimafi
 - 👀 I’m interested in Music, Beers and Bikes.
 - 🌱 I’m currently learning more about Flutter.
-- 💞️ I’m looking to collaborate on Music or 
+- 💞️ I’m looking to collaborate on Music or Web Projects
 - 📫 How to reach me @korimafi
 
 <!---
